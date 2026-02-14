@@ -116,7 +116,7 @@ function offlineUUID(name){
 
 
 // coord converter
-function convert(){
+function convertCoords(){
   let x=document.getElementById("x").value;
   let z=document.getElementById("z").value;
 
